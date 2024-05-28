@@ -18,3 +18,4 @@ namespace Menadżer_Drużyn
         }
     }
 }
+ 
