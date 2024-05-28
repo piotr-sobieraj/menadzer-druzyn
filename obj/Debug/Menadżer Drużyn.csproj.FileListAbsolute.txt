@@ -9,3 +9,4 @@ C:\Users\piotr\source\repos\Menadżer Drużyn\obj\Debug\Menadżer Drużyn.exe
 C:\Users\piotr\source\repos\Menadżer Drużyn\obj\Debug\Menadżer Drużyn.pdb
 C:\Users\piotr\source\repos\Menadżer Drużyn\obj\Debug\Menadżer_Drużyn.FormMain.resources
 C:\Users\piotr\source\repos\Menadżer Drużyn\obj\Debug\Menadżer_Drużyn.FormDetails.resources
+C:\Users\piotr\source\repos\Menadżer Drużyn\obj\Debug\Menadżer_Drużyn.UserControl.resources
