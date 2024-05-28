@@ -1,0 +1,10 @@
+C:\Users\piotr\source\repos\Menadżer Drużyn\bin\Debug\Menadżer Drużyn.exe.config
+C:\Users\piotr\source\repos\Menadżer Drużyn\bin\Debug\Menadżer Drużyn.exe
+C:\Users\piotr\source\repos\Menadżer Drużyn\bin\Debug\Menadżer Drużyn.pdb
+C:\Users\piotr\source\repos\Menadżer Drużyn\obj\Debug\Menadżer Drużyn.csproj.AssemblyReference.cache
+C:\Users\piotr\source\repos\Menadżer Drużyn\obj\Debug\Menadżer_Drużyn.Properties.Resources.resources
+C:\Users\piotr\source\repos\Menadżer Drużyn\obj\Debug\Menadżer Drużyn.csproj.GenerateResource.cache
+C:\Users\piotr\source\repos\Menadżer Drużyn\obj\Debug\Menadżer Drużyn.csproj.CoreCompileInputs.cache
+C:\Users\piotr\source\repos\Menadżer Drużyn\obj\Debug\Menadżer Drużyn.exe
+C:\Users\piotr\source\repos\Menadżer Drużyn\obj\Debug\Menadżer Drużyn.pdb
+C:\Users\piotr\source\repos\Menadżer Drużyn\obj\Debug\Menadżer_Drużyn.FormMain.resources
