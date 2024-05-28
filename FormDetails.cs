@@ -10,19 +10,11 @@ using System.Windows.Forms;
 
 namespace Menadżer_Drużyn
 {
-    public partial class FormMain : Form
+    public partial class FormDetails : Form
     {
-        public FormMain()
+        public FormDetails()
         {
             InitializeComponent();
         }
-
-        private void buttonAccept_Click(object sender, EventArgs e)
-        {
-            string param = "Hello, DetailForm!";
-            FormDetails formDetails = new FormDetails(param);
-            formDetails.ShowDialog();
-        }
     }
 }
- 
