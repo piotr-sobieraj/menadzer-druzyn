@@ -56,6 +56,7 @@
             // 
             // comboBoxRank
             // 
+            this.comboBoxRank.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.comboBoxRank.FormattingEnabled = true;
             this.comboBoxRank.Items.AddRange(new object[] {
             "unranked",
@@ -98,5 +99,33 @@
         private System.Windows.Forms.PictureBox pictureBoxRola;
         private System.Windows.Forms.ComboBox comboBoxRank;
         private System.Windows.Forms.CheckBox checkBoxCaptain;
+
+
+        // Właściwość do uzyskania lub ustawienia tekstu w textBoxName
+        public string PlayerName
+        {
+            get { return textBoxName.Text; }
+            set { textBoxName.Text = value; }
+        }
+
+        // Właściwość do uzyskania lub ustawienia wybranej wartości w comboBoxRank
+        public string Rank
+        {
+            get { return comboBoxRank.SelectedItem?.ToString(); }
+            set { comboBoxRank.SelectedItem = value; }
+        }
+
+        // Właściwość do uzyskania lub ustawienia stanu checkBoxCaptain
+        public bool IsCaptain
+        {
+            get { return checkBoxCaptain.Checked; }
+            set { checkBoxCaptain.Checked = value; }
+        }
+
+        //public Image RoleImage
+        //{
+        //    get { return pictureBoxRola.Image; }
+        //    set { pictureBoxRola.Image = value; }
+        //}
     }
 }

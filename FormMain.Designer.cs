@@ -30,7 +30,7 @@
         {
             this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.buttonAccept = new System.Windows.Forms.Button();
-            this.userControl1 = new Menadżer_Drużyn.UserControl();
+            this.userControlPlayer1 = new Menadżer_Drużyn.UserControl();
             this.groupBox1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -57,19 +57,19 @@
             this.buttonAccept.UseVisualStyleBackColor = true;
             this.buttonAccept.Click += new System.EventHandler(this.buttonAccept_Click);
             // 
-            // userControl1
+            // userControlPlayer1
             // 
-            this.userControl1.Location = new System.Drawing.Point(12, 12);
-            this.userControl1.Name = "userControl1";
-            this.userControl1.Size = new System.Drawing.Size(1142, 130);
-            this.userControl1.TabIndex = 2;
+            this.userControlPlayer1.Location = new System.Drawing.Point(12, 12);
+            this.userControlPlayer1.Name = "userControlPlayer1";
+            this.userControlPlayer1.Size = new System.Drawing.Size(1142, 130);
+            this.userControlPlayer1.TabIndex = 2;
             // 
             // FormMain
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 25F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1257, 601);
-            this.Controls.Add(this.userControl1);
+            this.Controls.Add(this.userControlPlayer1);
             this.Controls.Add(this.groupBox1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.Fixed3D;
             this.Name = "FormMain";
@@ -83,7 +83,7 @@
         #endregion
         private System.Windows.Forms.GroupBox groupBox1;
         private System.Windows.Forms.Button buttonAccept;
-        private UserControl userControl1;
+        private UserControl userControlPlayer1;
     }
 }
 

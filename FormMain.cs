@@ -19,6 +19,12 @@ namespace Menadżer_Drużyn
 
         private void buttonAccept_Click(object sender, EventArgs e)
         {
+
+            userControlPlayer1.PlayerName = "ABC";
+
+
+            return;
+
             string param = "Hello, DetailForm!";
             FormDetails formDetails = new FormDetails(param);
             formDetails.ShowDialog();
