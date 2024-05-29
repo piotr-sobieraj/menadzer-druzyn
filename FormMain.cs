@@ -20,13 +20,18 @@ namespace Menadżer_Drużyn
         private void buttonAccept_Click(object sender, EventArgs e)
         {
 
-            userControlPlayer1.PlayerName = "ABC";
+            string name1 = userControlPlayer1.PlayerName;
+            string rank1 = userControlPlayer1.Rank;
+            bool isCaptain1 = userControlPlayer1.IsCaptain;
+            Player p1 = new Player(name1, rank1, isCaptain1);
 
+            string name2 = userControlPlayer2.PlayerName;
+            string rank2 = userControlPlayer2.Rank;
+            bool isCaptain2 = userControlPlayer2.IsCaptain;
+            Player p2 = new Player(name2, rank2, isCaptain2);
 
-            return;
-
-            string param = "Hello, DetailForm!";
-            FormDetails formDetails = new FormDetails(param);
+            // Uruchomienie formatki z listą
+            FormDetails formDetails = new FormDetails(p1, p2);
             formDetails.ShowDialog();
         }
     }

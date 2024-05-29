@@ -35,12 +35,23 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.listBoxSummary = new System.Windows.Forms.ListBox();
             this.SuspendLayout();
+            // 
+            // listBoxSummary
+            // 
+            this.listBoxSummary.FormattingEnabled = true;
+            this.listBoxSummary.ItemHeight = 25;
+            this.listBoxSummary.Location = new System.Drawing.Point(57, 57);
+            this.listBoxSummary.Name = "listBoxSummary";
+            this.listBoxSummary.Size = new System.Drawing.Size(199, 179);
+            this.listBoxSummary.TabIndex = 0;
             // 
             // FormDetails
             // 
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.None;
-            this.ClientSize = new System.Drawing.Size(730, 362);
+            this.ClientSize = new System.Drawing.Size(308, 317);
+            this.Controls.Add(this.listBoxSummary);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.Fixed3D;
             this.Name = "FormDetails";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
@@ -50,5 +61,7 @@
         }
 
         #endregion
+
+        private System.Windows.Forms.ListBox listBoxSummary;
     }
 }

@@ -31,6 +31,7 @@
             this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.buttonAccept = new System.Windows.Forms.Button();
             this.userControlPlayer1 = new Menadżer_Drużyn.UserControl();
+            this.userControlPlayer2 = new Menadżer_Drużyn.UserControl();
             this.groupBox1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -59,16 +60,30 @@
             // 
             // userControlPlayer1
             // 
+            this.userControlPlayer1.IsCaptain = false;
             this.userControlPlayer1.Location = new System.Drawing.Point(12, 12);
             this.userControlPlayer1.Name = "userControlPlayer1";
+            this.userControlPlayer1.PlayerName = "";
+            this.userControlPlayer1.Rank = null;
             this.userControlPlayer1.Size = new System.Drawing.Size(1142, 130);
             this.userControlPlayer1.TabIndex = 2;
+            // 
+            // userControlPlayer2
+            // 
+            this.userControlPlayer2.IsCaptain = false;
+            this.userControlPlayer2.Location = new System.Drawing.Point(12, 138);
+            this.userControlPlayer2.Name = "userControlPlayer2";
+            this.userControlPlayer2.PlayerName = "";
+            this.userControlPlayer2.Rank = null;
+            this.userControlPlayer2.Size = new System.Drawing.Size(1142, 130);
+            this.userControlPlayer2.TabIndex = 3;
             // 
             // FormMain
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 25F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1257, 601);
+            this.Controls.Add(this.userControlPlayer2);
             this.Controls.Add(this.userControlPlayer1);
             this.Controls.Add(this.groupBox1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.Fixed3D;
@@ -84,6 +99,7 @@
         private System.Windows.Forms.GroupBox groupBox1;
         private System.Windows.Forms.Button buttonAccept;
         private UserControl userControlPlayer1;
+        private UserControl userControlPlayer2;
     }
 }
 

@@ -122,6 +122,11 @@
             set { checkBoxCaptain.Checked = value; }
         }
 
+        public override string ToString()
+        {
+            return IsCaptain ? $"* {Name}" : Name;
+        }
+
         //public Image RoleImage
         //{
         //    get { return pictureBoxRola.Image; }
