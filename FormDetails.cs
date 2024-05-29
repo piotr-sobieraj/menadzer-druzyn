@@ -17,6 +17,7 @@ namespace Menadżer_Drużyn
             InitializeComponent();
 
             listBoxSummary.Items.Add(p1.ToString());
+            listBoxSummary.Items.Add(p2.ToString());
         }
 
      }
