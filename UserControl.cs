@@ -10,15 +10,11 @@ using System.Windows.Forms;
 
 namespace Menadżer_Drużyn
 {
-    public partial class FormDetails : Form
+    public partial class UserControl : System.Windows.Forms.UserControl
     {
-        public FormDetails(Player p1, Player p2)
+        public UserControl()
         {
             InitializeComponent();
-
-            listBoxSummary.Items.Add(p1.ToString());
-            listBoxSummary.Items.Add(p2.ToString());
         }
-
-     }
+    }
 }
