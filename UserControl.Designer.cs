@@ -1,4 +1,6 @@
-﻿namespace Menadżer_Drużyn
+﻿using System.Drawing;
+
+namespace Menadżer_Drużyn
 {
     partial class UserControl
     {
@@ -25,7 +27,6 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(UserControl));
             this.textBoxName = new System.Windows.Forms.TextBox();
             this.pictureBoxRola = new System.Windows.Forms.PictureBox();
             this.comboBoxRank = new System.Windows.Forms.ComboBox();
@@ -43,7 +44,7 @@
             // 
             // pictureBoxRola
             // 
-            this.pictureBoxRola.Image = ((System.Drawing.Image)(resources.GetObject("pictureBoxRola.Image")));
+            this.pictureBoxRola.ErrorImage = null;
             this.pictureBoxRola.Location = new System.Drawing.Point(52, 35);
             this.pictureBoxRola.Name = "pictureBoxRola";
             this.pictureBoxRola.Size = new System.Drawing.Size(61, 61);
@@ -124,10 +125,25 @@
             return IsCaptain ? $"* {Name}" : Name;
         }
 
-        //public Image RoleImage
-        //{
-        //    get { return pictureBoxRola.Image; }
-        //    set { pictureBoxRola.Image = value; }
-        //}
+        // Właściwość do uzyskania lub ustawienia obrazu w pictureBoxRola
+        public Image RoleImage
+        {
+            get { return pictureBoxRola.Image; }
+            set { pictureBoxRola.Image = value; }
+        }
+
+        // Metoda do ustawiania obrazu z pliku
+        public void SetRoleImage(string imagePath)
+        {
+            if (System.IO.File.Exists(imagePath))
+            {
+                pictureBoxRola.Image = Image.FromFile(imagePath);
+            }
+            else
+            {
+                // Obsługa błędu w przypadku, gdy plik nie istnieje
+                throw new System.IO.FileNotFoundException("Cannot find the given picture.", imagePath);
+            }
+        }
     }
 }

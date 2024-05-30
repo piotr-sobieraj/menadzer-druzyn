@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Drawing;
 
 namespace Menadżer_Drużyn
 {
@@ -19,5 +20,12 @@ namespace Menadżer_Drużyn
                 comboBoxRank.SelectedIndex = 0;
             }
         }
+
+        // Metoda do ustawiania obrazu z zasobów
+        public void SetRoleImageFromResources(string resourceName)
+        {
+            pictureBoxRola.Image = (Image)Properties.Resources.ResourceManager.GetObject(resourceName);
+        }
+
     }
 }
