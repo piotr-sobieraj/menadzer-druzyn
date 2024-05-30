@@ -40,17 +40,19 @@
             // 
             // listBoxSummary
             // 
+            this.listBoxSummary.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.listBoxSummary.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.listBoxSummary.FormattingEnabled = true;
-            this.listBoxSummary.ItemHeight = 25;
-            this.listBoxSummary.Location = new System.Drawing.Point(57, 57);
+            this.listBoxSummary.ItemHeight = 33;
+            this.listBoxSummary.Location = new System.Drawing.Point(0, 0);
             this.listBoxSummary.Name = "listBoxSummary";
-            this.listBoxSummary.Size = new System.Drawing.Size(199, 179);
+            this.listBoxSummary.Size = new System.Drawing.Size(233, 241);
             this.listBoxSummary.TabIndex = 0;
             // 
             // FormDetails
             // 
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.None;
-            this.ClientSize = new System.Drawing.Size(308, 317);
+            this.ClientSize = new System.Drawing.Size(233, 241);
             this.Controls.Add(this.listBoxSummary);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.Fixed3D;
             this.Name = "FormDetails";

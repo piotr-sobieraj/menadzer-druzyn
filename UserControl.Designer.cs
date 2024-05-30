@@ -2,9 +2,6 @@
 {
     partial class UserControl
     {
-        /// <summary> 
-        /// Wymagana zmienna projektanta.
-        /// </summary>
         private System.ComponentModel.IContainer components = null;
 
         /// <summary> 
