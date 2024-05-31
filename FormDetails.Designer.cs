@@ -35,6 +35,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FormDetails));
             this.listBoxSummary = new System.Windows.Forms.ListBox();
             this.SuspendLayout();
             // 
@@ -55,6 +56,7 @@
             this.ClientSize = new System.Drawing.Size(233, 241);
             this.Controls.Add(this.listBoxSummary);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.Fixed3D;
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "FormDetails";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Szczegóły";

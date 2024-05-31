@@ -73,5 +73,18 @@ namespace Menadżer_Drużyn
             FormDetails formDetails = new FormDetails(p1, p2, p3, p4, p5);
             formDetails.ShowDialog();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
+
+        private void FormMain_KeyDown(object sender, KeyEventArgs e)
+        {
+            if (e.KeyCode == Keys.Escape)
+            {
+                buttonExit.PerformClick(); 
+            }
+        }
     }
 }
