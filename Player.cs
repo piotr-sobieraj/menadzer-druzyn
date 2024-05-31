@@ -17,7 +17,8 @@
 
         public override string ToString()
         {
-            return IsCaptain ? $"* {Name}" : Name;
+            string captainIndicator = IsCaptain ? "*" : "";
+            return $"{captainIndicator} {Name} ({Rank})";
         }
     }
 }

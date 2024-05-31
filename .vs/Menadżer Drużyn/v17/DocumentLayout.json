@@ -3,23 +3,39 @@
   "WorkspaceRootPath": "C:\\Users\\piotr\\source\\repos\\Menad\u017Cer Dru\u017Cyn\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7966DC5B-644F-40A5-8E7E-78403C3E49BB}|Menad\u017Cer Dru\u017Cyn.csproj|C:\\Users\\piotr\\source\\repos\\Menad\u017Cer Dru\u017Cyn\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7966DC5B-644F-40A5-8E7E-78403C3E49BB}|Menad\u017Cer Dru\u017Cyn.csproj|solutionrelative:player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7966DC5B-644F-40A5-8E7E-78403C3E49BB}|Menad\u017Cer Dru\u017Cyn.csproj|C:\\Users\\piotr\\source\\repos\\Menad\u017Cer Dru\u017Cyn\\formdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7966DC5B-644F-40A5-8E7E-78403C3E49BB}|Menad\u017Cer Dru\u017Cyn.csproj|solutionrelative:formdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7966DC5B-644F-40A5-8E7E-78403C3E49BB}|Menad\u017Cer Dru\u017Cyn.csproj|c:\\users\\piotr\\source\\repos\\menad\u017Cer dru\u017Cyn\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7966DC5B-644F-40A5-8E7E-78403C3E49BB}|Menad\u017Cer Dru\u017Cyn.csproj|solutionrelative:formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7966DC5B-644F-40A5-8E7E-78403C3E49BB}|Menad\u017Cer Dru\u017Cyn.csproj|C:\\Users\\piotr\\source\\repos\\Menad\u017Cer Dru\u017Cyn\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{7966DC5B-644F-40A5-8E7E-78403C3E49BB}|Menad\u017Cer Dru\u017Cyn.csproj|solutionrelative:formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7966DC5B-644F-40A5-8E7E-78403C3E49BB}|Menad\u017Cer Dru\u017Cyn.csproj|C:\\Users\\piotr\\source\\repos\\Menad\u017Cer Dru\u017Cyn\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7966DC5B-644F-40A5-8E7E-78403C3E49BB}|Menad\u017Cer Dru\u017Cyn.csproj|solutionrelative:formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7966DC5B-644F-40A5-8E7E-78403C3E49BB}|Menad\u017Cer Dru\u017Cyn.csproj|C:\\Users\\piotr\\source\\repos\\Menad\u017Cer Dru\u017Cyn\\formdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7966DC5B-644F-40A5-8E7E-78403C3E49BB}|Menad\u017Cer Dru\u017Cyn.csproj|solutionrelative:formdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7966DC5B-644F-40A5-8E7E-78403C3E49BB}|Menad\u017Cer Dru\u017Cyn.csproj|c:\\users\\piotr\\source\\repos\\menad\u017Cer dru\u017Cyn\\usercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7966DC5B-644F-40A5-8E7E-78403C3E49BB}|Menad\u017Cer Dru\u017Cyn.csproj|C:\\Users\\piotr\\source\\repos\\Menad\u017Cer Dru\u017Cyn\\usercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7966DC5B-644F-40A5-8E7E-78403C3E49BB}|Menad\u017Cer Dru\u017Cyn.csproj|solutionrelative:usercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7966DC5B-644F-40A5-8E7E-78403C3E49BB}|Menad\u017Cer Dru\u017Cyn.csproj|C:\\Users\\piotr\\source\\repos\\Menad\u017Cer Dru\u017Cyn\\formdetails.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7966DC5B-644F-40A5-8E7E-78403C3E49BB}|Menad\u017Cer Dru\u017Cyn.csproj|solutionrelative:formdetails.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7966DC5B-644F-40A5-8E7E-78403C3E49BB}|Menad\u017Cer Dru\u017Cyn.csproj|C:\\Users\\piotr\\source\\repos\\Menad\u017Cer Dru\u017Cyn\\usercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{7966DC5B-644F-40A5-8E7E-78403C3E49BB}|Menad\u017Cer Dru\u017Cyn.csproj|solutionrelative:usercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7966DC5B-644F-40A5-8E7E-78403C3E49BB}|Menad\u017Cer Dru\u017Cyn.csproj|c:\\users\\piotr\\source\\repos\\menad\u017Cer dru\u017Cyn\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7966DC5B-644F-40A5-8E7E-78403C3E49BB}|Menad\u017Cer Dru\u017Cyn.csproj|C:\\Users\\piotr\\source\\repos\\Menad\u017Cer Dru\u017Cyn\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7966DC5B-644F-40A5-8E7E-78403C3E49BB}|Menad\u017Cer Dru\u017Cyn.csproj|solutionrelative:properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -27,24 +43,8 @@
       "RelativeMoniker": "D:0:0:{7966DC5B-644F-40A5-8E7E-78403C3E49BB}|Menad\u017Cer Dru\u017Cyn.csproj|solutionrelative:usercontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7966DC5B-644F-40A5-8E7E-78403C3E49BB}|Menad\u017Cer Dru\u017Cyn.csproj|C:\\Users\\piotr\\source\\repos\\Menad\u017Cer Dru\u017Cyn\\formdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7966DC5B-644F-40A5-8E7E-78403C3E49BB}|Menad\u017Cer Dru\u017Cyn.csproj|solutionrelative:formdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7966DC5B-644F-40A5-8E7E-78403C3E49BB}|Menad\u017Cer Dru\u017Cyn.csproj|C:\\Users\\piotr\\source\\repos\\Menad\u017Cer Dru\u017Cyn\\formdetails.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7966DC5B-644F-40A5-8E7E-78403C3E49BB}|Menad\u017Cer Dru\u017Cyn.csproj|solutionrelative:formdetails.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7966DC5B-644F-40A5-8E7E-78403C3E49BB}|Menad\u017Cer Dru\u017Cyn.csproj|C:\\Users\\piotr\\source\\repos\\Menad\u017Cer Dru\u017Cyn\\formdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{7966DC5B-644F-40A5-8E7E-78403C3E49BB}|Menad\u017Cer Dru\u017Cyn.csproj|solutionrelative:formdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7966DC5B-644F-40A5-8E7E-78403C3E49BB}|Menad\u017Cer Dru\u017Cyn.csproj|C:\\Users\\piotr\\source\\repos\\Menad\u017Cer Dru\u017Cyn\\formmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7966DC5B-644F-40A5-8E7E-78403C3E49BB}|Menad\u017Cer Dru\u017Cyn.csproj|solutionrelative:formmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7966DC5B-644F-40A5-8E7E-78403C3E49BB}|Menad\u017Cer Dru\u017Cyn.csproj|C:\\Users\\piotr\\source\\repos\\Menad\u017Cer Dru\u017Cyn\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7966DC5B-644F-40A5-8E7E-78403C3E49BB}|Menad\u017Cer Dru\u017Cyn.csproj|solutionrelative:player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,97 +62,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Resources.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\piotr\\source\\repos\\Menad\u017Cer Dru\u017Cyn\\Properties\\Resources.Designer.cs",
-              "RelativeDocumentMoniker": "Properties\\Resources.Designer.cs",
-              "ToolTip": "C:\\Users\\piotr\\source\\repos\\Menad\u017Cer Dru\u017Cyn\\Properties\\Resources.Designer.cs",
-              "RelativeToolTip": "Properties\\Resources.Designer.cs",
-              "ViewState": "AQIAAC4AAADAAgAAAIAowGIAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T06:52:31.114Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "UserControl.cs",
-              "DocumentMoniker": "C:\\Users\\piotr\\source\\repos\\Menad\u017Cer Dru\u017Cyn\\UserControl.cs",
-              "RelativeDocumentMoniker": "UserControl.cs",
-              "ToolTip": "C:\\Users\\piotr\\source\\repos\\Menad\u017Cer Dru\u017Cyn\\UserControl.cs",
-              "RelativeToolTip": "UserControl.cs",
-              "ViewState": "AQIAAA0AAAAANDMzM/MhwBcAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T19:49:49.136Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UserControl.cs [Projekt]",
-              "DocumentMoniker": "C:\\Users\\piotr\\source\\repos\\Menad\u017Cer Dru\u017Cyn\\UserControl.cs",
-              "RelativeDocumentMoniker": "UserControl.cs",
-              "ToolTip": "C:\\Users\\piotr\\source\\repos\\Menad\u017Cer Dru\u017Cyn\\UserControl.cs [Projekt]",
-              "RelativeToolTip": "UserControl.cs [Projekt]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T05:24:01.342Z",
-              "EditorCaption": " [Projekt]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UserControl.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\piotr\\source\\repos\\Menad\u017Cer Dru\u017Cyn\\UserControl.Designer.cs",
-              "RelativeDocumentMoniker": "UserControl.Designer.cs",
-              "ToolTip": "C:\\Users\\piotr\\source\\repos\\Menad\u017Cer Dru\u017Cyn\\UserControl.Designer.cs",
-              "RelativeToolTip": "UserControl.Designer.cs",
-              "ViewState": "AQIAAA8AAAAA+////38gwJAAAABRAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T20:54:04.728Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "FormDetails.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\piotr\\source\\repos\\Menad\u017Cer Dru\u017Cyn\\FormDetails.Designer.cs",
-              "RelativeDocumentMoniker": "FormDetails.Designer.cs",
-              "ToolTip": "C:\\Users\\piotr\\source\\repos\\Menad\u017Cer Dru\u017Cyn\\FormDetails.Designer.cs",
-              "RelativeToolTip": "FormDetails.Designer.cs",
-              "ViewState": "AQIAACAAAABAmZmZmVkhwCoAAABBAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T21:48:36.36Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Player.cs",
-              "DocumentMoniker": "C:\\Users\\piotr\\source\\repos\\Menad\u017Cer Dru\u017Cyn\\Player.cs",
-              "RelativeDocumentMoniker": "Player.cs",
-              "ToolTip": "C:\\Users\\piotr\\source\\repos\\Menad\u017Cer Dru\u017Cyn\\Player.cs",
-              "RelativeToolTip": "Player.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T21:38:47.508Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "FormMain.cs",
               "DocumentMoniker": "C:\\Users\\piotr\\source\\repos\\Menad\u017Cer Dru\u017Cyn\\FormMain.cs",
               "RelativeDocumentMoniker": "FormMain.cs",
               "ToolTip": "C:\\Users\\piotr\\source\\repos\\Menad\u017Cer Dru\u017Cyn\\FormMain.cs",
               "RelativeToolTip": "FormMain.cs",
-              "ViewState": "AQIAABkAAAAQAAAAAIAwwCQAAAAAAAAA",
+              "ViewState": "AQIAAEMAAACAMDMzM7MYwFMAAABDAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-27T15:20:51.353Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "FormMain.cs [Projekt]",
               "DocumentMoniker": "C:\\Users\\piotr\\source\\repos\\Menad\u017Cer Dru\u017Cyn\\FormMain.cs",
               "RelativeDocumentMoniker": "FormMain.cs",
@@ -165,6 +88,79 @@
             {
               "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "Resources.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\piotr\\source\\repos\\Menad\u017Cer Dru\u017Cyn\\Properties\\Resources.Designer.cs",
+              "RelativeDocumentMoniker": "Properties\\Resources.Designer.cs",
+              "ToolTip": "C:\\Users\\piotr\\source\\repos\\Menad\u017Cer Dru\u017Cyn\\Properties\\Resources.Designer.cs",
+              "RelativeToolTip": "Properties\\Resources.Designer.cs",
+              "ViewState": "AQIAAC4AAADAAgAAAIAowGIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T06:52:31.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserControl.cs",
+              "DocumentMoniker": "C:\\Users\\piotr\\source\\repos\\Menad\u017Cer Dru\u017Cyn\\UserControl.cs",
+              "RelativeDocumentMoniker": "UserControl.cs",
+              "ToolTip": "C:\\Users\\piotr\\source\\repos\\Menad\u017Cer Dru\u017Cyn\\UserControl.cs",
+              "RelativeToolTip": "UserControl.cs",
+              "ViewState": "AQIAAA0AAAAANDMzM/MhwBgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T19:49:49.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserControl.cs [Projekt]",
+              "DocumentMoniker": "C:\\Users\\piotr\\source\\repos\\Menad\u017Cer Dru\u017Cyn\\UserControl.cs",
+              "RelativeDocumentMoniker": "UserControl.cs",
+              "ToolTip": "C:\\Users\\piotr\\source\\repos\\Menad\u017Cer Dru\u017Cyn\\UserControl.cs [Projekt]",
+              "RelativeToolTip": "UserControl.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T05:24:01.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserControl.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\piotr\\source\\repos\\Menad\u017Cer Dru\u017Cyn\\UserControl.Designer.cs",
+              "RelativeDocumentMoniker": "UserControl.Designer.cs",
+              "ToolTip": "C:\\Users\\piotr\\source\\repos\\Menad\u017Cer Dru\u017Cyn\\UserControl.Designer.cs",
+              "RelativeToolTip": "UserControl.Designer.cs",
+              "ViewState": "AQIAAA8AAAAA+////38gwJAAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T20:54:04.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormDetails.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\piotr\\source\\repos\\Menad\u017Cer Dru\u017Cyn\\FormDetails.Designer.cs",
+              "RelativeDocumentMoniker": "FormDetails.Designer.cs",
+              "ToolTip": "C:\\Users\\piotr\\source\\repos\\Menad\u017Cer Dru\u017Cyn\\FormDetails.Designer.cs",
+              "RelativeToolTip": "FormDetails.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T21:48:36.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\piotr\\source\\repos\\Menad\u017Cer Dru\u017Cyn\\Player.cs",
+              "RelativeDocumentMoniker": "Player.cs",
+              "ToolTip": "C:\\Users\\piotr\\source\\repos\\Menad\u017Cer Dru\u017Cyn\\Player.cs",
+              "RelativeToolTip": "Player.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAA3wAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T21:38:47.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "FormDetails.cs [Projekt]",
               "DocumentMoniker": "C:\\Users\\piotr\\source\\repos\\Menad\u017Cer Dru\u017Cyn\\FormDetails.cs",
               "RelativeDocumentMoniker": "FormDetails.cs",
@@ -176,20 +172,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "FormDetails.cs",
               "DocumentMoniker": "C:\\Users\\piotr\\source\\repos\\Menad\u017Cer Dru\u017Cyn\\FormDetails.cs",
               "RelativeDocumentMoniker": "FormDetails.cs",
               "ToolTip": "C:\\Users\\piotr\\source\\repos\\Menad\u017Cer Dru\u017Cyn\\FormDetails.cs",
               "RelativeToolTip": "FormDetails.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-28T19:26:13.521Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "FormMain.Designer.cs",
               "DocumentMoniker": "C:\\Users\\piotr\\source\\repos\\Menad\u017Cer Dru\u017Cyn\\FormMain.Designer.cs",
               "RelativeDocumentMoniker": "FormMain.Designer.cs",
@@ -197,8 +193,7 @@
               "RelativeToolTip": "FormMain.Designer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T15:22:02.093Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-27T15:22:02.093Z"
             }
           ]
         }
