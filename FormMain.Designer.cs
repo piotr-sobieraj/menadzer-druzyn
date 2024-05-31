@@ -37,6 +37,7 @@
             this.userControlPlayer3 = new Menadżer_Drużyn.UserControl();
             this.userControlPlayer2 = new Menadżer_Drużyn.UserControl();
             this.userControlPlayer1 = new Menadżer_Drużyn.UserControl();
+            this.textBoxTeamName = new System.Windows.Forms.TextBox();
             this.groupBox1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -44,11 +45,12 @@
             // 
             this.groupBox1.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
+            this.groupBox1.Controls.Add(this.textBoxTeamName);
             this.groupBox1.Controls.Add(this.buttonExit);
             this.groupBox1.Controls.Add(this.buttonAccept);
-            this.groupBox1.Location = new System.Drawing.Point(12, 722);
+            this.groupBox1.Location = new System.Drawing.Point(12, 671);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(957, 156);
+            this.groupBox1.Size = new System.Drawing.Size(958, 156);
             this.groupBox1.TabIndex = 1;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Szczegóły";
@@ -56,7 +58,7 @@
             // buttonAccept
             // 
             this.buttonAccept.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.buttonAccept.Location = new System.Drawing.Point(754, 24);
+            this.buttonAccept.Location = new System.Drawing.Point(755, 24);
             this.buttonAccept.Name = "buttonAccept";
             this.buttonAccept.Size = new System.Drawing.Size(178, 62);
             this.buttonAccept.TabIndex = 0;
@@ -67,7 +69,7 @@
             // buttonExit
             // 
             this.buttonExit.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.buttonExit.Location = new System.Drawing.Point(754, 88);
+            this.buttonExit.Location = new System.Drawing.Point(755, 88);
             this.buttonExit.Name = "buttonExit";
             this.buttonExit.Size = new System.Drawing.Size(178, 62);
             this.buttonExit.TabIndex = 1;
@@ -130,12 +132,19 @@
             this.userControlPlayer1.Size = new System.Drawing.Size(972, 130);
             this.userControlPlayer1.TabIndex = 2;
             // 
+            // textBoxTeamName
+            // 
+            this.textBoxTeamName.Location = new System.Drawing.Point(68, 71);
+            this.textBoxTeamName.Name = "textBoxTeamName";
+            this.textBoxTeamName.Size = new System.Drawing.Size(571, 31);
+            this.textBoxTeamName.TabIndex = 2;
+            // 
             // FormMain
             // 
             this.AcceptButton = this.buttonAccept;
             this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 25F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(981, 890);
+            this.ClientSize = new System.Drawing.Size(982, 838);
             this.Controls.Add(this.userControlPlayer5);
             this.Controls.Add(this.userControlPlayer4);
             this.Controls.Add(this.userControlPlayer3);
@@ -150,6 +159,7 @@
             this.Text = "Menadżer Drużyn";
             this.KeyDown += new System.Windows.Forms.KeyEventHandler(this.FormMain_KeyDown);
             this.groupBox1.ResumeLayout(false);
+            this.groupBox1.PerformLayout();
             this.ResumeLayout(false);
 
         }
@@ -163,6 +173,7 @@
         private UserControl userControlPlayer4;
         private UserControl userControlPlayer5;
         private System.Windows.Forms.Button buttonExit;
+        private System.Windows.Forms.TextBox textBoxTeamName;
     }
 }
 

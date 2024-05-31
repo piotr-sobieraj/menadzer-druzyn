@@ -68,9 +68,20 @@ namespace Menadżer_Drużyn
             double rankValue5 = rankValues.ContainsKey(rank5) ? rankValues[rank5] : 0.0;
             Player p5 = new Player(name5, rank5, isCaptain5, rankValue5);
 
+            //Sprawdzenie poprawności danych
+            int sum = (isCaptain1 ? 1 : 0) + (isCaptain2 ? 1 : 0) + 
+                      (isCaptain3 ? 1 : 0) + (isCaptain4 ? 1 : 0) + 
+                      (isCaptain5 ? 1 : 0);
+            
+            if (sum > 1)
+            {
+                MessageBox.Show("Nie można dodać więcej niż jednego kapitana.", "Błąd", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                return;
+            }
+
 
             // Uruchomienie formatki z listą
-            FormDetails formDetails = new FormDetails(p1, p2, p3, p4, p5);
+            FormDetails formDetails = new FormDetails(textBoxTeamName.Text, p1, p2, p3, p4, p5);
             formDetails.ShowDialog();
         }
 
