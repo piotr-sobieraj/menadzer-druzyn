@@ -81,6 +81,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <EmbeddedResource Include="UserControl.resx">
       <DependentUpon>UserControl.cs</DependentUpon>
@@ -97,6 +98,21 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\pictures\Bottom.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\pictures\Jungle.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\pictures\Middle.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\pictures\Support.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\pictures\Top.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

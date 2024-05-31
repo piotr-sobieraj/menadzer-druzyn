@@ -32,12 +32,14 @@ namespace Menadżer_Drużyn
             string rank1 = userControlPlayer1.Rank;
             bool isCaptain1 = userControlPlayer1.IsCaptain;
             double rankValue1 = rankValues.ContainsKey(rank1) ? rankValues[rank1] : 0.0;
+            userControlPlayer1.SetRoleImageFromResources("Top"); 
             Player p1 = new Player(name1, rank1, isCaptain1, rankValue1);
 
             string name2 = userControlPlayer2.PlayerName;
             string rank2 = userControlPlayer2.Rank;
             bool isCaptain2 = userControlPlayer2.IsCaptain;
             double rankValue2 = rankValues.ContainsKey(rank2) ? rankValues[rank2] : 0.0;
+            userControlPlayer2.SetRoleImageFromResources("Jungle"); 
             Player p2 = new Player(name2, rank2, isCaptain2, rankValue2);
 
             // Uruchomienie formatki z listą
